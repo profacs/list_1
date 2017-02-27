@@ -17,20 +17,6 @@ http://premium.exabytetv.info/totalpleix/211/1/TVBVV-101100011010000010111010001
 #EXTINF:-1 tvg-id="Exabyte TV" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/antena-3.gif" group-title="ENTRETENIMIENTO",Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TVAntena 3" tvg-name="Antena 3" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/113.png" group-title="ENTRETENIMIENTO",Antena 3 Internacional
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TVAXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO",AXN   
-http://premium.exabytetv.info/totalpleix/213/1/TVBVV-1011000110100000101110100011011-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TVAz Clic" tvg-name="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif" group-title="ENTRETENIMIENTO",Az Clic   
-http://premium.exabytetv.info/totalpleix/725/1/TVBVV-1011000110100000101110100011011-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TVAz Corazón" tvg-name="Az Corazón" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif" group-title="ENTRETENIMIENTO",Az Corazón   
-http://premium.exabytetv.info/totalpleix/250/1/TVBVV-1011000110100000101110100011011-ExabyteTV/exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="Exabyte TVAz Mundo" tvg-name="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif" group-title="ENTRETENIMIENTO",Az Mundo   
-http://premium.exabytetv.info/totalpleix/276/1/TVBVV-1011000110100000101110100011011-ExabyteTV/exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Exabyte TVAzteca 7" tvg-name="Azteca 7" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="ENTRETENIMIENTO",Azteca 7   
 http://premium.exabytetv.info/totalpleix/107/1/TVBVV-1011000110100000101110100011011-ExabyteTV/exabytetv.m3u8
