@@ -5,7 +5,7 @@
 http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, [B][COLOR mediumspringgreen]Telemundo52[/COLOR][/B]
 http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
-#Extinf:-1,[B][COLOR mediumspringblue]cars[/COLOR][/B]
+#Extinf:-1,[B][COLOR mediumspringgreen]cars[/COLOR][/B]
 mms://tv.autohoje.com/mpltv
 #EXTINF:-1, [B][COLOR mediumspringgreen]Univision23[/COLOR][/B]
 http://iphone-streaming.ustream.tv/uhls/22505108/streams/live/iphone/playlist.m3u8
