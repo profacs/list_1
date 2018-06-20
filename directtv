@@ -2,9 +2,9 @@
 
 
 #EXTINF:-1, [B][COLOR mediumspringgreen]World Cup 1[/COLOR][/B]
-http://mypanel.tv:8080/live/ab/ab2017/37944.ts
-#EXTINF:-1, [B][COLOR mediumspringgreen]GSN TV[/COLOR][/B]
-http://diamond.cybergroup.top:15800/live/ptxasvnx/8x3yIi9Q5l/12782.ts
+http://163.172.222.83:8100/live/sergio/sergio123/4651.ts
+#EXTINF:-1, [B][COLOR mediumspringgreen]World Cup 2[/COLOR][/B]
+http://163.172.222.83:8100/live/sergio/sergio123/4652.ts
 #EXTINF:-1, [B][COLOR mediumspringgreen]Telemundo52[/COLOR][/B]
 http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, [B][COLOR mediumspringgreen]Univision23[/COLOR][/B]
